@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BrandonTang89.github.io/MoneyMintingSimulator/static/css/main.7e5a4c5b.chunk.css",
+    "main.js": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/main.a0aa297c.chunk.js",
+    "main.js.map": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/main.a0aa297c.chunk.js.map",
+    "runtime-main.js": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/runtime-main.abbffe8d.js",
+    "runtime-main.js.map": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/runtime-main.abbffe8d.js.map",
+    "static/js/2.6a3ed7c7.chunk.js": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/2.6a3ed7c7.chunk.js",
+    "static/js/2.6a3ed7c7.chunk.js.map": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/2.6a3ed7c7.chunk.js.map",
+    "static/js/3.1c3c0b75.chunk.js": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/3.1c3c0b75.chunk.js",
+    "static/js/3.1c3c0b75.chunk.js.map": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/3.1c3c0b75.chunk.js.map",
+    "index.html": "/BrandonTang89.github.io/MoneyMintingSimulator/index.html",
+    "static/css/main.7e5a4c5b.chunk.css.map": "/BrandonTang89.github.io/MoneyMintingSimulator/static/css/main.7e5a4c5b.chunk.css.map",
+    "static/js/2.6a3ed7c7.chunk.js.LICENSE.txt": "/BrandonTang89.github.io/MoneyMintingSimulator/static/js/2.6a3ed7c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abbffe8d.js",
+    "static/js/2.6a3ed7c7.chunk.js",
+    "static/css/main.7e5a4c5b.chunk.css",
+    "static/js/main.a0aa297c.chunk.js"
+  ]
+}
